@@ -1,0 +1,7 @@
+# local tooling
+.claude/
+
+# raw source uploads (optimised copies live in assets/img/)
+/*.jpg
+/*.png
+/Screenshot*

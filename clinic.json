@@ -1,0 +1,210 @@
+{
+  "_meta": {
+    "extractedOn": "2026-10-07",
+    "sources": {
+      "google": "Google Maps listing (place id 0x57d61b7628d2e54e)",
+      "facebook": "facebook.com/profile.php?id=100064871582592",
+      "doctify": "doctify.com/en-ae/practice/hmrt-polyclinic",
+      "okadoc": "okadoc.com/en-ae/clinic/dubai/h-m-r-t-polyclinic-dubai",
+      "medarabia": "m.edarabia.com/hmrt-medical-polyclinic/74134/"
+    },
+    "arabicNote": "Arabic text is a draft translation — needs native-speaker review before publishing."
+  },
+  "name": {
+    "en": "HMRT Medical Clinic",
+    "ar": "عيادة HMRT الطبية",
+    "fullEn": "Healthcare & Medical Royal Treatment",
+    "fullAr": "الرعاية الصحية والعلاج الطبي الملكي",
+    "aliases": ["HMRT Polyclinic", "Dr Yarub Group – HMRT Polyclinic", "H.M.R.T Polyclinic"]
+  },
+  "tagline": {
+    "en": "Committed to the highest standards of excellence in dental, medical and surgical care.",
+    "ar": "ملتزمون بأعلى معايير التميّز في طب الأسنان والرعاية الطبية والجراحية."
+  },
+  "about": {
+    "en": "Since January 2006, HMRT Polyclinic has delivered exceptional dental, medical and surgical care in Al Nahda, Dubai. With state-of-the-art technology and a team of highly skilled physicians and nurses, we have served thousands of patients and work with numerous insurance providers across the UAE.",
+    "ar": "منذ يناير 2006، تقدّم عيادة HMRT رعاية متميّزة في طب الأسنان والطب والجراحة في منطقة النهدة بدبي. بفضل أحدث التقنيات وفريق من الأطباء والممرضين ذوي الكفاءة العالية، خدمنا آلاف المرضى ونتعامل مع العديد من شركات التأمين في دولة الإمارات.",
+    "source": "doctify"
+  },
+  "mission": {
+    "en": "Quality patient care with a focus on clinical excellence, patient safety and an unmatched commitment to the very best healthcare.",
+    "ar": "رعاية عالية الجودة للمرضى، مع التركيز على التميّز السريري وسلامة المرضى والالتزام بتقديم أفضل رعاية صحية.",
+    "source": "medarabia"
+  },
+  "founded": "2006-01",
+  "category": ["Dentist", "Oral & Maxillofacial Surgery", "Polyclinic"],
+  "address": {
+    "en": "Office 1107 & 1108, 11th Floor, Mai Tower, Amman Street, Al Nahda 1, Dubai, United Arab Emirates",
+    "ar": "مكتب 1107 و1108، الطابق 11، برج مي، شارع عمّان، النهدة 1، دبي، الإمارات العربية المتحدة",
+    "street": "Amman Street",
+    "building": "Mai Tower",
+    "unit": "Office 1107 & 1108, Floor 11",
+    "area": "Al Nahda 1",
+    "city": "Dubai",
+    "country": "AE"
+  },
+  "geo": { "lat": 25.2880101, "lng": 55.3652862 },
+  "plusCode": "79Q8+64 Dubai",
+  "mapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJZ3WdoGZcXz4RTuXSKHYb1lc",
+  "phones": [
+    { "label": "Landline", "number": "+97142655888", "display": "+971 4 265 5888", "source": "google" },
+    { "label": "Mobile / WhatsApp", "number": "+971567790202", "display": "+971 56 779 0202", "source": "facebook" }
+  ],
+  "whatsapp": "https://wa.me/971567790202",
+  "email": { "address": "accountshmrt@yahoo.in", "source": "facebook", "note": "Accounts mailbox — confirm a public contact email with the client" },
+  "websites": [
+    { "url": "https://www.hmrtpolyclinic.ae/", "status": "listed on Facebook; did not load during extraction" },
+    { "url": "https://dryarubgrp.com/", "status": "listed on Google; GoDaddy account suspended" },
+    { "url": "http://www.hmrt-clinic.com/", "status": "old listing (Medarabia)" }
+  ],
+  "social": [
+    { "network": "facebook", "url": "https://www.facebook.com/profile.php?id=100064871582592", "followers": 290 },
+    { "network": "facebook", "url": "https://www.facebook.com/hmrt.clinic/", "note": "second page 'HMRT Polyclinic'" }
+  ],
+  "hours": {
+    "sat": "11:00–20:00",
+    "sun": "11:00–20:00",
+    "mon": "11:00–20:00",
+    "tue": "11:00–20:00",
+    "wed": "11:00–20:00",
+    "thu": "11:00–20:00",
+    "fri": null,
+    "source": "google (updated by business) + doctify"
+  },
+  "ratings": [
+    { "source": "Google", "score": 4.8, "count": 250 },
+    { "source": "Doctify", "score": 5.0, "count": 399, "verified": true }
+  ],
+  "reviewThemes": [
+    { "en": "Professional doctor", "ar": "طبيب محترف", "mentions": 15 },
+    { "en": "Kind staff", "ar": "طاقم لطيف", "mentions": 12 },
+    { "en": "Clear explanations", "ar": "شرح واضح", "mentions": 11 },
+    { "en": "Friendly team", "ar": "فريق ودود", "mentions": 10 },
+    { "en": "Wisdom tooth extraction", "ar": "خلع ضرس العقل", "mentions": 7 },
+    { "en": "Dental fillings", "ar": "حشوات الأسنان", "mentions": 6 },
+    { "en": "Friendly receptionist", "ar": "استقبال ودود", "mentions": 5 }
+  ],
+  "doctors": [
+    {
+      "name": { "en": "Dr. Yarub Al Shammary", "ar": "د. يعرب الشمري" },
+      "role": { "en": "Oral & Maxillofacial Surgeon — Founder", "ar": "جرّاح الفم والوجه والفكين — المؤسس" },
+      "doctify": { "score": 4.98, "reviews": 1303 },
+      "verified": true
+    },
+    {
+      "name": { "en": "Dr. Mays Aljbori", "ar": "د. ميس الجبوري" },
+      "role": { "en": "Dentist", "ar": "طبيبة أسنان" },
+      "doctify": { "score": 5.0, "reviews": 186 },
+      "verified": true
+    },
+    {
+      "name": { "en": "Dr. Khaled Shbair", "ar": "د. خالد شبير" },
+      "role": { "en": "Dentist", "ar": "طبيب أسنان" },
+      "doctify": { "score": 5.0, "reviews": 141 },
+      "verified": true
+    },
+    { "name": { "en": "Dr. Luay Haddad", "ar": "د. لؤي حداد" }, "role": { "en": "Urologist", "ar": "أخصائي المسالك البولية" }, "verified": false, "source": "okadoc/medarabia" },
+    { "name": { "en": "Dr. Khalid Gamal Shehatto", "ar": "د. خالد جمال شحاتو" }, "role": { "en": "Psychiatrist", "ar": "طبيب نفسي" }, "verified": false, "source": "okadoc" },
+    { "name": { "en": "Dr. Maysarah Kadhum Abed Alammar", "ar": "د. ميسرة كاظم عبد العمار" }, "role": { "en": "General Practitioner", "ar": "طبيب عام" }, "verified": false, "source": "okadoc" }
+  ],
+  "services": [
+    {
+      "group": { "en": "Oral & Maxillofacial Surgery", "ar": "جراحة الفم والوجه والفكين" },
+      "items": [
+        { "en": "Dental surgery", "ar": "جراحة الأسنان" },
+        { "en": "Wisdom & impacted teeth removal", "ar": "خلع أضراس العقل والأسنان المطمورة" },
+        { "en": "Bone graft", "ar": "ترقيع العظم" },
+        { "en": "Sinus lift", "ar": "رفع الجيب الأنفي" },
+        { "en": "Apicoectomy", "ar": "قطع ذروة الجذر" },
+        { "en": "Jaw & TMJ surgery", "ar": "جراحة الفك والمفصل الصدغي الفكي" },
+        { "en": "Facial trauma & reconstruction", "ar": "إصابات الوجه وإعادة البناء" },
+        { "en": "Oral biopsies & lesion removal", "ar": "خزعات الفم وإزالة الآفات" },
+        { "en": "Frenectomy", "ar": "قطع اللجام" },
+        { "en": "Cleft & craniofacial care", "ar": "علاج الشفة المشقوقة وتشوهات الوجه والجمجمة" }
+      ]
+    },
+    {
+      "group": { "en": "Dental Implants", "ar": "زراعة الأسنان" },
+      "items": [
+        { "en": "Dental implants", "ar": "زراعة الأسنان" },
+        { "en": "Implant prosthesis", "ar": "تركيبات على الزرعات" }
+      ]
+    },
+    {
+      "group": { "en": "Restorative Dentistry", "ar": "طب الأسنان الترميمي" },
+      "items": [
+        { "en": "Composite fillings", "ar": "حشوات تجميلية (كومبوزيت)" },
+        { "en": "Root canal & re-treatment", "ar": "علاج العصب وإعادة العلاج" },
+        { "en": "Crowns", "ar": "التيجان" },
+        { "en": "Bridges", "ar": "الجسور" },
+        { "en": "Dentures", "ar": "أطقم الأسنان" }
+      ]
+    },
+    {
+      "group": { "en": "Cosmetic Dentistry", "ar": "تجميل الأسنان" },
+      "items": [
+        { "en": "Veneers", "ar": "القشور (الفينير)" },
+        { "en": "Teeth whitening", "ar": "تبييض الأسنان" },
+        { "en": "Smile makeover", "ar": "تصميم الابتسامة" },
+        { "en": "Composite bonding", "ar": "الترابط التجميلي" },
+        { "en": "Gum contouring", "ar": "تجميل اللثة" }
+      ]
+    },
+    {
+      "group": { "en": "Orthodontics", "ar": "تقويم الأسنان" },
+      "items": [
+        { "en": "Braces", "ar": "التقويم المعدني" },
+        { "en": "Clear braces", "ar": "التقويم الشفاف" },
+        { "en": "Clear aligners / Invisalign", "ar": "المصففات الشفافة / إنفزلاين" },
+        { "en": "Retainers", "ar": "المثبتات" }
+      ]
+    },
+    {
+      "group": { "en": "General & Preventive", "ar": "طب الأسنان العام والوقائي" },
+      "items": [
+        { "en": "Cleaning, scale & polish", "ar": "تنظيف الأسنان وإزالة الجير والتلميع" },
+        { "en": "Paediatric dentistry", "ar": "طب أسنان الأطفال" },
+        { "en": "Dental emergencies", "ar": "طوارئ الأسنان" }
+      ]
+    },
+    {
+      "group": { "en": "Facial Aesthetics", "ar": "تجميل الوجه" },
+      "items": [
+        { "en": "Botox (incl. migraine, TMJ & facial pain)", "ar": "البوتوكس (بما في ذلك الصداع النصفي وآلام الفك والوجه)" },
+        { "en": "Chin & cheek implants", "ar": "حشوات الذقن والوجنتين" },
+        { "en": "Genioplasty", "ar": "تجميل الذقن" },
+        { "en": "Lip lift", "ar": "رفع الشفاه" },
+        { "en": "Eyelid surgery (blepharoplasty)", "ar": "جراحة الجفون" }
+      ]
+    },
+    {
+      "group": { "en": "Diagnostics & Imaging", "ar": "التشخيص والأشعة" },
+      "items": [
+        { "en": "Dental X-ray & radiology", "ar": "أشعة الأسنان والتصوير الإشعاعي" }
+      ]
+    }
+  ],
+  "facilities": [
+    { "en": "Wheelchair accessible", "ar": "مهيأ لأصحاب الهمم" },
+    { "en": "Children welcome", "ar": "نستقبل الأطفال" },
+    { "en": "Prayer room", "ar": "مصلى" },
+    { "en": "Free Wi-Fi", "ar": "واي فاي مجاني" },
+    { "en": "Translation services", "ar": "خدمات الترجمة" },
+    { "en": "On-site imaging", "ar": "أشعة داخل العيادة" },
+    { "en": "Financing available", "ar": "خيارات تقسيط متاحة" },
+    { "en": "Free parking nearby", "ar": "مواقف مجانية قريبة" },
+    { "en": "Elevator", "ar": "مصعد" },
+    { "en": "RTA parking & valet", "ar": "مواقف هيئة الطرق وخدمة صف السيارات" }
+  ],
+  "insurers": ["Mednet", "ADNIC", "Daman", "Enaya", "NextCare", "Neuron", "Almadallah", "Saada", "MetLife"],
+  "testimonials": [
+    { "author": "Ahmed", "source": "Google", "text": "Dr. Yarub is an outstanding dentist—professional, knowledgeable, gentle, and genuinely caring." },
+    { "author": "Ali Alshaikhli", "source": "Google", "text": "Dr. Mays is highly skilled and professional, but also incredibly kind, patient, and caring." },
+    { "author": "Sanju Bhai", "source": "Google", "text": "Handled my procedure with great professionalism, skill, and kindness." }
+  ],
+  "unverified": [
+    "Possible second branch 'Al Safa 1' with phones 04 591 1595 / 058 588 1325 (search snippet of Facebook page)",
+    "Okadoc lists 10 doctors and 5 specialities (Dentistry, Orthopaedics, GP, ENT, Urology) — likely outdated",
+    "Medarabia hours (Sat–Thu 9–2 & 5–10) — outdated, superseded by Google"
+  ]
+}
